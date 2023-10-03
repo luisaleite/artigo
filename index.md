@@ -14,7 +14,7 @@ Para resolver esse problema, é essencial estabelecer um mecanismo que permita a
 
 ### Diagrama
 
-<img src="https://imgur.com/a/NWYxQSa.png"/>
+diagrama2.png
 
 ### Explicação Textual
 
@@ -39,6 +39,7 @@ A proposta apresentada oferece uma abordagem abrangente para fomentar o aprendiz
 O aprendizado contínuo é essencial para manter sistemas conversacionais relevantes e eficazes, mas deve ser gerenciado de forma eficiente para evitar custos excessivos. A adaptação constante é um desafio contínuo, mas é fundamental para fornecer experiências de usuário de alta qualidade.
 
 ## Referências Bibliográficas
-1. Lu, Jie, et al. "Learning under concept drift: A review." *IEEE transactions on knowledge and data engineering* 31.12 (2018): 2346-2363.
-2. Jang, Joel, et al. "Towards continual knowledge learning of language models." *arXiv preprint arXiv:2110.03215* (2021).
+1. Lu, Jie, et al. "Learning under concept drift: A review." **IEEE transactions on knowledge and data engineering** 31.12 (2018): 2346-2363.
+   
+2. Jang, Joel, et al. "Towards continual knowledge learning of language models." **arXiv preprint arXiv:2110.03215** (2021).
 
