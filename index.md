@@ -14,7 +14,7 @@ Para resolver esse problema, é essencial estabelecer um mecanismo que permita a
 
 ### Diagrama
 
-<img src="https://imgur.com/a/QOqVRE6.jpg"/>
+<img src="https://imgur.com/a/NWYxQSa.png"/>
 
 ### Explicação Textual
 
