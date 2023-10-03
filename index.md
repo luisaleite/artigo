@@ -14,7 +14,7 @@ Para resolver esse problema, é essencial estabelecer um mecanismo que permita a
 
 ### Diagrama
 
-![Diagrama](https://imgur.com/a/QOqVRE6.jpg)
+img="https://imgur.com/a/QOqVRE6.jpg"
 
 ### Explicação Textual
 
@@ -36,5 +36,9 @@ Para resolver esse problema, é essencial estabelecer um mecanismo que permita a
 
 A proposta apresentada oferece uma abordagem abrangente para fomentar o aprendizado contínuo em sistemas conversacionais. Ela aborda o desafio da falta de atualização de modelos, especialmente em um contexto de concept drift. No entanto, é importante ressaltar que a implementação dessa solução requer um esforço considerável em termos de infraestrutura, coleta de dados, treinamento de modelos e avaliação de desempenho. Além disso, é necessário estabelecer um equilíbrio entre a frequência de retreinamento e o custo computacional associado.
 
-O aprendizado contínuo é essencial para manter sistemas conversacionais relevantes e eficazes, mas deve ser gerenciado de forma eficiente para evitar custos excessivos. A adaptação constante é um desafio cont
+O aprendizado contínuo é essencial para manter sistemas conversacionais relevantes e eficazes, mas deve ser gerenciado de forma eficiente para evitar custos excessivos. A adaptação constante é um desafio contínuo, mas é fundamental para fornecer experiências de usuário de alta qualidade.
+
+## Referências Bibliográficas
+1. Lu, Jie, et al. "Learning under concept drift: A review." *IEEE transactions on knowledge and data engineering* 31.12 (2018): 2346-2363.
+2. Jang, Joel, et al. "Towards continual knowledge learning of language models." *arXiv preprint arXiv:2110.03215* (2021).
 
