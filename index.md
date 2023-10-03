@@ -14,7 +14,7 @@ Para resolver esse problema, é essencial estabelecer um mecanismo que permita a
 
 ### Diagrama
 
-diagrama2.png
+![diagrama](https://github.com/luisaleite/artigo/blob/main/diagrama2.png)
 
 ### Explicação Textual
 
